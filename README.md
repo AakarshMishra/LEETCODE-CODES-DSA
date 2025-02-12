@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0338-counting-bits) |
 ## Array
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0216-combination-sum-iii) |
 ## Hash Table
 |  |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0037-sudoku-solver) |
+## String
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
