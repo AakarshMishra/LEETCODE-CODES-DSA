@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0131-palindrome-partitioning) |
+| [1078-remove-outermost-parentheses](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/1078-remove-outermost-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/2128-reverse-prefix-of-word) |
 ## Linked List
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0682-baseball-game) |
+| [1078-remove-outermost-parentheses](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/1078-remove-outermost-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/2128-reverse-prefix-of-word) |
 ## Simulation
 |  |
