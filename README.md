@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0061-rotate-list) |
 | [0146-lru-cache](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0206-reverse-linked-list) |
 ## Recursion
