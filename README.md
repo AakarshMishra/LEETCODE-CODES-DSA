@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0090-subsets-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0216-combination-sum-iii](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0216-combination-sum-iii) |
+| [0496-next-greater-element-i](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0682-baseball-game) |
 ## Two Pointers
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0146-lru-cache) |
+| [0496-next-greater-element-i](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0496-next-greater-element-i) |
 ## Matrix
 |  |
 | ------- |
@@ -102,9 +104,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0682-baseball-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
