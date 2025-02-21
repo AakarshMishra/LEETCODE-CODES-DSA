@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0090-subsets-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0216-combination-sum-iii](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0216-combination-sum-iii) |
+| [0682-baseball-game](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0682-baseball-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -94,4 +95,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0682-baseball-game](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
