@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0090-subsets-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0216-combination-sum-iii](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0216-combination-sum-iii) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0234-palindrome-linked-list) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0496-next-greater-element-i) |
 ## Queue
 |  |
