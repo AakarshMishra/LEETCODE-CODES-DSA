@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0090-subsets-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0216-combination-sum-iii](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0216-combination-sum-iii) |
+| [0239-sliding-window-maximum](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0682-baseball-game) |
 ## Two Pointers
@@ -129,4 +130,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0496-next-greater-element-i) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
