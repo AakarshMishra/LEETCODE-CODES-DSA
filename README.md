@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0338-counting-bits) |
 ## Array
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Stack
 |  |
@@ -146,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0239-sliding-window-maximum) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
