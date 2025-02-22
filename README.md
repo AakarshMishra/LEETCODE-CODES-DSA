@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0234-palindrome-linked-list) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0908-middle-of-the-linked-list](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0908-middle-of-the-linked-list) |
 | [2128-reverse-prefix-of-word](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/2128-reverse-prefix-of-word) |
 ## Sorting
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0131-palindrome-partitioning) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/1078-remove-outermost-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/2128-reverse-prefix-of-word) |
 ## Linked List
