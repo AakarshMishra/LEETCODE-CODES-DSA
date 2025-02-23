@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/1078-remove-outermost-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/2128-reverse-prefix-of-word) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3709-find-special-substring-of-length-k](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/3709-find-special-substring-of-length-k) |
 ## Linked List
 |  |
 | ------- |
