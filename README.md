@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0338-counting-bits) |
+| [1086-divisor-game](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/1086-divisor-game) |
 ## Array
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1086-divisor-game](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/1086-divisor-game) |
 ## Stack
 |  |
 | ------- |
@@ -220,4 +222,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1039-find-the-town-judge](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/1916-find-center-of-star-graph) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
