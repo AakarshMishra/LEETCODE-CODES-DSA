@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0338-counting-bits) |
+| [0800-letter-case-permutation](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0800-letter-case-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0216-combination-sum-iii) |
+| [0800-letter-case-permutation](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0800-letter-case-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0131-palindrome-partitioning) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0800-letter-case-permutation](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0800-letter-case-permutation) |
 | [1078-remove-outermost-parentheses](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/1078-remove-outermost-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/2128-reverse-prefix-of-word) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
