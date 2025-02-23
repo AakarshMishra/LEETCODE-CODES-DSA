@@ -11,8 +11,6 @@ class Solution {
         {
             if(target==0)
             ans.add(new ArrayList<>(ds));
-
-            System.out.println(ds);
             return;
         }
         if(arr[i]<=target)
