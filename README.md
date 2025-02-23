@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0496-next-greater-element-i) |
 | [0665-non-decreasing-array](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0665-non-decreasing-array) |
 | [0682-baseball-game](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0682-baseball-game) |
+| [1039-find-the-town-judge](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/1039-find-the-town-judge) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0496-next-greater-element-i) |
+| [1039-find-the-town-judge](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/1039-find-the-town-judge) |
 ## Matrix
 |  |
 | ------- |
@@ -213,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0023-merge-k-sorted-lists) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
