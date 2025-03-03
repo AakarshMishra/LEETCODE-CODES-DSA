@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0338-counting-bits) |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0084-largest-rectangle-in-histogram) |
