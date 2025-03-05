@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0665-non-decreasing-array](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0665-non-decreasing-array) |
 | [0682-baseball-game](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0682-baseball-game) |
 | [1039-find-the-town-judge](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/1039-find-the-town-judge) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1039-find-the-town-judge](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/1039-find-the-town-judge) |
 ## Matrix
 |  |
@@ -235,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/1086-divisor-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
