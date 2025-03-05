@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0496-next-greater-element-i) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0665-non-decreasing-array](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0665-non-decreasing-array) |
 | [0682-baseball-game](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0682-baseball-game) |
@@ -56,12 +57,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0908-middle-of-the-linked-list](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0908-middle-of-the-linked-list) |
 | [2128-reverse-prefix-of-word](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/2128-reverse-prefix-of-word) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0075-sort-colors) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0496-next-greater-element-i) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1039-find-the-town-judge](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/1039-find-the-town-judge) |
 ## Matrix
@@ -248,4 +252,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 <!---LeetCode Topics End-->
