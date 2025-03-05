@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0191-number-of-1-bits) |
+| [0287-find-the-duplicate-number](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0338-counting-bits) |
 | [0800-letter-case-permutation](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0800-letter-case-permutation) |
 ## Dynamic Programming
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0908-middle-of-the-linked-list](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0908-middle-of-the-linked-list) |
@@ -252,5 +255,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 <!---LeetCode Topics End-->
