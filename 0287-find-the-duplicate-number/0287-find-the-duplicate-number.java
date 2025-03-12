@@ -1,14 +1,24 @@
 class Solution {
     public int findDuplicate(int[] nums) {
-        int len = nums.length;
-        for (int num : nums) {
-            int idx = Math.abs(num);
-            if (nums[idx] < 0) {
-                return idx;
+        int slow = nums[0];
+        int fast = nums[0];
+
+        while (true) {
+            slow = nums[slow];
+            fast = nums[nums[fast]];// moving one more step than slow and imagien that all numbers are connected to each others as nodes of linkedlist
+
+            if (slow == fast) {
+                break;
             }
-            nums[idx] = -nums[idx];
         }
 
-        return len;
+        int slow2 = nums[0];
+
+        while (slow != slow2) {
+            slow = nums[slow];
+            slow2 = nums[slow2];
+        }
+
+        return slow;        
     }
 }
