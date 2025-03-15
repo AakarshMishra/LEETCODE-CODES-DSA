@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0146-lru-cache) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0073-set-matrix-zeroes) |
 ## String
 |  |
 | ------- |
