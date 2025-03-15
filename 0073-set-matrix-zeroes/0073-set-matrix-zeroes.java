@@ -1,6 +1,6 @@
 class Solution {
     public void setZeroes(int[][] matrix) {
-         int row[]=new int[matrix.length];
+        int row[]=new int[matrix.length];
         int column[]=new int[matrix[0].length];
 
         for(int i=0;i<matrix.length;i++)
