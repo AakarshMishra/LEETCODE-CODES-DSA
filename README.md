@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0071-simplify-path) |
 | [0131-palindrome-partitioning](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0131-palindrome-partitioning) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0800-letter-case-permutation](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0800-letter-case-permutation) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0144-binary-tree-preorder-traversal) |
