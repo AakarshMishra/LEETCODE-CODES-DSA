@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0008-string-to-integer-atoi) |
 | [0032-longest-valid-parentheses](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0071-simplify-path) |
 | [0131-palindrome-partitioning](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0131-palindrome-partitioning) |
