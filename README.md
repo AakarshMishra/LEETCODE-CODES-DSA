@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0012-integer-to-roman) |
 | [0037-sudoku-solver](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0141-linked-list-cycle) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0012-integer-to-roman) |
 | [0032-longest-valid-parentheses](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0071-simplify-path) |
 | [0131-palindrome-partitioning](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0131-palindrome-partitioning) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1086-divisor-game](https://github.com/AakarshMishra/LEETCODE-CODES-DSA/tree/master/1086-divisor-game) |
